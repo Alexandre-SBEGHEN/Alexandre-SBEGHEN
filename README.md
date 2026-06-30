@@ -4,15 +4,11 @@
 
 🎮 8+ years messing around with code and music
 
----
-
 ## 😍 My favorite projects 
 
 - *WIP* — **Custom Assembly compiler/interpreter in C** — *solo* → [repo](https://github.com/Alexandre-SBEGHEN/RAM-Machine-ASM-Compiler-Interpreter-V2)
 - **[Brainrot City](https://brainrotcity.alwaysdata.net) website** — *team project* → [repo](https://github.com/Alexandre-SBEGHEN/BUT-R1.02-Projet-web)
 - **Candy Crush Clone in C++** — *team project* → [repo](https://github.com/Alexandre-SBEGHEN/BUT-SAE1.01-Candy-Crush)
-
----
 
 ## 🧐 Stuff I would love to create
 
