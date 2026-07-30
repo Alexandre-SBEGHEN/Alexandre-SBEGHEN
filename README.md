@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, Alex's here!</h1>
+# 👋 Hello, Alex's here!
 
 🎓 CS student at IUT d'Aix-Marseille 
 
