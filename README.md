@@ -6,8 +6,8 @@
 
 ## 😍 My favorite projects 
 
-- *WIP* — **Custom Assembly compiler/interpreter in C** — *solo* → [repo](https://github.com/Alexandre-SBEGHEN/RAM-Machine-ASM-Compiler-Interpreter-V2)
-- **Candy Crush Clone in C++** — *team project* → [repo](https://github.com/Alexandre-SBEGHEN/BUT-SAE1.01-Candy-Crush)
+1. *WIP* [**Custom Assembly compiler/interpreter in C**](https://github.com/Alexandre-SBEGHEN/RAM-Machine-ASM-Compiler-Interpreter-V2) — *solo*
+2. [**Candy Crush Clone in C++**](https://github.com/Alexandre-SBEGHEN/BUT-SAE1.01-Candy-Crush) — *team project*
 
 ## 🧐 Stuff I would love to create
 
