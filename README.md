@@ -7,7 +7,8 @@
 ## 😍 My favorite projects 
 
 1. *WIP* [**Custom Assembly compiler/interpreter in C**](https://github.com/Alexandre-SBEGHEN/RAM-Machine-ASM-Compiler-Interpreter-V2) — *solo*
-2. [**Candy Crush Clone in C++**](https://github.com/Alexandre-SBEGHEN/BUT-SAE1.01-Candy-Crush) — *team project*
+2. [**The Brainrot City website**](https://brainrotcity.alwaysdata.net/) — *team project*
+3. [**Candy Crush Clone in C++**](https://github.com/Alexandre-SBEGHEN/BUT-SAE1.01-Candy-Crush) — *team project*
 
 ## 🧐 Stuff I would love to create
 
