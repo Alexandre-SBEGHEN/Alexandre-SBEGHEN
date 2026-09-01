@@ -4,7 +4,7 @@
 
 🎮 8+ years messing around with code and music
 
-## 🗣 Things I code with
+## ⚙️ Things I code with
 
 ![GameMaker](https://img.shields.io/badge/GML-000000?style=flat&logo=gamemaker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
