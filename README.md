@@ -35,7 +35,7 @@
 ## 😍 My favorite projects 
 
 1. [**Custom Assembly compiler/interpreter in C**](https://github.com/Alexandre-SBEGHEN/Custom-ASM-Compiler) — *solo*
-2. [**Math Expression Evaluator**](https://github.com/Alexandre-SBEGHEN/Math-Expression-Evaluator) — *solo*
+2. [**Math Expression Evaluator in Java**](https://github.com/Alexandre-SBEGHEN/Math-Expression-Evaluator) — *solo*
 3. [**Candy Crush Clone in C++**](https://github.com/Alexandre-SBEGHEN/BUT-SAE1.01-Candy-Crush) — *team project*
 
 ## 📍 Where to find me
